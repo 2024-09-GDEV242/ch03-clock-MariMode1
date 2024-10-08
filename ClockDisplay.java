@@ -10,8 +10,8 @@
  * and reacts by incrementing the display. This is done in the usual clock
  * fashion: the hour increments when the minutes roll over to zero.
  * 
- * @author Ma
- * @version 2016.02.29
+ * @author Mari Modebadze
+ * @version 2024.10.08
  */
 public class ClockDisplay
 {
